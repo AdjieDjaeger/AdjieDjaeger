@@ -5,4 +5,4 @@ I'm A**djie Djaka Permana**, loves to be called as **D'Jaeger** [_ˈdiːˈjɛː�
 - 🔭 I’m currently **working** on self project called admin-djaeger, an admin template personalized for me, currently, it's private maybe will be public someday.
 
 - 🌱 Also, I’m currently **develop** myself to be advanced at using React and its family (Next, Native, etc. maybe).
-- 😄 Oh yeah, as I mentioned before, currently, I'm doing translation from English to Bahasa as a contribution to [trekhleb](https://github.com/trekhleb)'s [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms).
+- 😄 Oh yeah, as I mentioned before, currently, I'm doing **documentation translation** from English to Bahasa as a **contribution** to [trekhleb](https://github.com/trekhleb)'s [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms).
